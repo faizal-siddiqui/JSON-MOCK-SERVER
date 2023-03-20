@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Watch"
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "name": "added cart"
+    }
+  ],
+  "profile": [
+    {
+      "id": 1,
+      "name": "Faizal"
+    }
+  ]
+}
