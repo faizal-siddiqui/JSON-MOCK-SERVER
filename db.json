@@ -1,22 +1,449 @@
 {
-  "recipes": [
+  "movies": [
     {
       "id": 1,
-      "username": "faizal",
-      "title": "Hazelnut Brownies",
-      "image": "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
-      "description": "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
-      "category": "Dessert",
-      "ingredients": ["Hazelnut", "Dark chocolate", "Flour", "Eggs"],
-      "instructions": "Heat oven to 180C/160C fan/ gas 4. Butter and line the base and sides of a 20cm square tin. Put the butter, chocolate and chocolate spread in a heatproof bowl and melt over a pan of lightly simmering water. Once melted, stir and set aside to cool a little.In another bowl, use an electric whisk to beat the eggs and sugar together for 5 mins until light and fluffy. Pour in the chocolate mixture and whisk briefly to combine. Sift in the flour and gently fold through the mixture, then add most of the pecans. Scrape the mixture into the tin and spread out with a spatula. Scatter over the last of the pecans and a good sprinkling of sea salt.Bake for 30-35 mins until set but a little gooey in the middle. Cool, then cut into squares and serve with ice cream and caramel sauce."
-    }
-  ],
-  "users": [
+      "Title": "Även om vi faller",
+      "Year": "2014",
+      "Rated": "N/A",
+      "Released": "27 Sep 2014",
+      "Runtime": "45 min",
+      "Genre": "Drama",
+      "Director": "Julian Jukas, Samir Rossi",
+      "Writer": "Samir Rossi",
+      "Actors": "Linnéa Benjaminsson, Therese Gylfe, Henrik Fagelberg",
+      "Plot": "Josefin and Moa are two inseparable sisters who, unlike their friends, live a very hard life with their aggressive father who takes poor care of them; when they don't bare at home anymore, they turn to the Welfare Office to seek h...",
+      "Language": "Swedish",
+      "Country": "Sweden",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTA4MzMzOWYtYzlhNC00NzU1LWJjMTgtMzZkYzBkNjAyN2UxXkEyXkFqcGdeQXVyMTEzMzkwMDc1._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.0",
+      "imdbVotes": "6",
+      "imdbID": "tt4300958",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
     {
-      "id": 1,
-      "username": "faizal",
-      "email": "faizal@gmail.com",
-      "password": "faizal"
+      "id": 2,
+      "Title": "Drag Me to Hell",
+      "Year": "2009",
+      "Rated": "PG-13",
+      "Released": "29 May 2009",
+      "Runtime": "99 min",
+      "Genre": "Horror",
+      "Director": "Sam Raimi",
+      "Writer": "Sam Raimi, Ivan Raimi",
+      "Actors": "Alison Lohman, Justin Long, Ruth Livier",
+      "Plot": "A loan officer who evicts an old woman from her home finds herself the recipient of a supernatural curse. Desperate, she turns to a seer to try and save her soul, while evil forces work to push her to a breaking point.",
+      "Language": "English, Spanish, Hungarian, Czech",
+      "Country": "United States",
+      "Awards": "7 wins & 24 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQwNTMyNjc5Ml5BMl5BanBnXkFtZTcwOTI2MTQ0Mg@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "83/100"
+        }
+      ],
+      "Metascore": "83",
+      "imdbRating": "6.6",
+      "imdbVotes": "208,417",
+      "imdbID": "tt1127180",
+      "Type": "movie",
+      "DVD": "07 Sep 2010",
+      "BoxOffice": "$42,100,625",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "id": 3,
+      "Title": "Drag Race España",
+      "Year": "2021–",
+      "Rated": "TV-14",
+      "Released": "30 May 2021",
+      "Runtime": "N/A",
+      "Genre": "Game-Show, Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Supremme De Luxe, Javier Calvo, Javier Ambrossi",
+      "Plot": "Spanish Drag superstar Supremme Deluxe presides as ten of Spain's most talented queens compete to be crowned Spain's first Drag Race Superstar.",
+      "Language": "Spanish",
+      "Country": "N/A",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGZjZWVjZGQtNTEyZS00ZGNmLWFjMzYtMjUwMWNmZjRiMGVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.8",
+      "imdbVotes": "2,292",
+      "imdbID": "tt13606528",
+      "Type": "series",
+      "totalSeasons": "2",
+      "Response": "True"
+    },
+    {
+      "id": 4,
+      "Title": "Ace Ventura: Pet Detective",
+      "Year": "1994",
+      "Rated": "PG-13",
+      "Released": "04 Feb 1994",
+      "Runtime": "86 min",
+      "Genre": "Comedy",
+      "Director": "Tom Shadyac",
+      "Writer": "Jack Bernstein, Tom Shadyac, Jim Carrey",
+      "Actors": "Jim Carrey, Courteney Cox, Sean Young",
+      "Plot": "A goofy detective specializing in animals goes in search of the missing mascot of the Miami Dolphins.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "5 wins & 6 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmVhNmFmOGYtZjgwNi00ZGQ0LThiMmQtOGZjMDUzNzJhMGIzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "48%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "37/100"
+        }
+      ],
+      "Metascore": "37",
+      "imdbRating": "6.9",
+      "imdbVotes": "309,575",
+      "imdbID": "tt0109040",
+      "Type": "movie",
+      "DVD": "01 Mar 2005",
+      "BoxOffice": "$72,217,396",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "id": 5,
+      "Title": "Ace Ventura: Pet Detective Jr.",
+      "Year": "2009",
+      "Rated": "PG",
+      "Released": "03 Mar 2009",
+      "Runtime": "93 min",
+      "Genre": "Adventure, Comedy, Crime",
+      "Director": "David Mickey Evans",
+      "Writer": "David Mickey Evans, Jeff Sank, Jason Heimberg",
+      "Actors": "Josh Flitter, Emma Lockhart, Ann Cusack",
+      "Plot": "The son of an eccentric detective steps into his father's shoes after his mother is wrongly arrested for stealing a baby panda.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2MwOWFjOGQtYzQ0Yi00NWJjLThkZmQtNWU1NmJjYmY2MTI2XkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "2.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "2.1",
+      "imdbVotes": "5,484",
+      "imdbID": "tt0844029",
+      "Type": "movie",
+      "DVD": "03 Mar 2009",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "id": 6,
+      "Title": "Teacher's Pet",
+      "Year": "2004",
+      "Rated": "PG",
+      "Released": "16 Jan 2004",
+      "Runtime": "73 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Timothy Björklund",
+      "Writer": "Gary Baseman, Bill Steinkellner, Cheri Steinkellner",
+      "Actors": "Nathan Lane, Shaun Fleming, David Ogden Stiers",
+      "Plot": "Spot (Lane) is a dog who can talk and read. Posing as a human, he sneaks into school with his master Leonard (Flemming). Educational adventures ensue.",
+      "Language": "English",
+      "Country": "United States, Philippines",
+      "Awards": "2 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDVlOTVmMzYtMzhlMC00YWY1LTg0NjMtZjg1MTIxZGMyMmFjXkEyXkFqcGdeQXVyNDAxNjkxNjQ@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "76%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "74/100"
+        }
+      ],
+      "Metascore": "74",
+      "imdbRating": "5.7",
+      "imdbVotes": "1,862",
+      "imdbID": "tt0350194",
+      "Type": "movie",
+      "DVD": "15 Jun 2004",
+      "BoxOffice": "$6,491,969",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "id": 7,
+      "Title": "Rat Race",
+      "Year": "2001",
+      "Rated": "PG-13",
+      "Released": "17 Aug 2001",
+      "Runtime": "112 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "Jerry Zucker",
+      "Writer": "Andy Breckman",
+      "Actors": "Breckin Meyer, Amy Smart, Whoopi Goldberg",
+      "Plot": "A Las Vegas casino magnate, determined to find a new avenue for wagering, sets up a race for money.",
+      "Language": "English",
+      "Country": "United States, Canada",
+      "Awards": "3 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWEzM2NjMjctM2U3Yi00MGZhLWJlYTYtMWEyYjVjZDEzZjM4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "45%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "52/100"
+        }
+      ],
+      "Metascore": "52",
+      "imdbRating": "6.4",
+      "imdbVotes": "118,982",
+      "imdbID": "tt0250687",
+      "Type": "movie",
+      "DVD": "29 Jan 2002",
+      "BoxOffice": "$56,618,055",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "id": 8,
+      "Title": "Bet on Revenge",
+      "Year": "2017",
+      "Rated": "N/A",
+      "Released": "16 Mar 2017",
+      "Runtime": "121 min",
+      "Genre": "Adventure, Drama, History",
+      "Director": "Gábor Herendi",
+      "Writer": "Bálint Hegedûs, Gábor Herendi",
+      "Actors": "Ervin Nagy, Andrea Petrik, Tibor Gáspár",
+      "Plot": "Ernõ Blaskovich lost everything after the Hungarian Revolution of 1848. Kincsem, a magnificent horse gives a purpose of his meaningless, self-destructing life. He gets a chance to gain everything back: revenge, love and fame.",
+      "Language": "Hungarian, English",
+      "Country": "Hungary",
+      "Awards": "2 wins & 1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzU1YzkzYzQtYTdkMS00ZWM1LThjOWQtMjg1NGIwM2I0MDc5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTkzMzMyNDA@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "5,877",
+      "imdbID": "tt4964310",
+      "Type": "movie",
+      "DVD": "19 Jun 2018",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "id": 9,
+      "Title": "Deadly Bet",
+      "Year": "1992",
+      "Rated": "R",
+      "Released": "26 Aug 1992",
+      "Runtime": "92 min",
+      "Genre": "Action",
+      "Director": "Richard W. Munchkin",
+      "Writer": "Joseph Merhi, Robert Tiffe",
+      "Actors": "Jeff Wincott, Steven Vincent Leigh, Charlene Tilton",
+      "Plot": "Jeff Wincott plays a gambler who puts his life on the line to buy his way out of the clutches of a mobster.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5MDg5OTU4MV5BMl5BanBnXkFtZTcwNDEwMDYxMQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "4.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "4.9",
+      "imdbVotes": "372",
+      "imdbID": "tt0104066",
+      "Type": "movie",
+      "DVD": "07 Jan 2018",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "id": 10,
+      "Title": "No Country for Old Men",
+      "Year": "2007",
+      "Rated": "R",
+      "Released": "21 Nov 2007",
+      "Runtime": "122 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "Ethan Coen, Joel Coen",
+      "Writer": "Joel Coen, Ethan Coen, Cormac McCarthy",
+      "Actors": "Tommy Lee Jones, Javier Bardem, Josh Brolin",
+      "Plot": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.",
+      "Language": "English, Spanish",
+      "Country": "United States",
+      "Awards": "Won 4 Oscars. 164 wins & 140 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "92/100"
+        }
+      ],
+      "Metascore": "92",
+      "imdbRating": "8.2",
+      "imdbVotes": "997,477",
+      "imdbID": "tt0477348",
+      "Type": "movie",
+      "DVD": "11 Mar 2008",
+      "BoxOffice": "$74,283,625",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "id": 11,
+      "Title": "X2: X-Men United",
+      "Year": "2003",
+      "Rated": "PG-13",
+      "Released": "02 May 2003",
+      "Runtime": "134 min",
+      "Genre": "Action, Sci-Fi, Thriller",
+      "Director": "Bryan Singer",
+      "Writer": "Zak Penn, David Hayter, Bryan Singer",
+      "Actors": "Patrick Stewart, Hugh Jackman, Halle Berry",
+      "Plot": "When anti-mutant Colonel William Stryker kidnaps Professor X and attacks his school, the X-Men must ally with their archenemy Magneto to stop him.",
+      "Language": "English, German, Italian, Spanish",
+      "Country": "Canada, United States",
+      "Awards": "6 wins & 41 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDk0NjYxMzIzOF5BMl5BanBnXkFtZTYwMTc1MjU3._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "68/100"
+        }
+      ],
+      "Metascore": "68",
+      "imdbRating": "7.4",
+      "imdbVotes": "558,115",
+      "imdbID": "tt0290334",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$214,949,694",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "id": 12,
+      "Title": "Children of Men",
+      "Year": "2006",
+      "Rated": "R",
+      "Released": "05 Jan 2007",
+      "Runtime": "109 min",
+      "Genre": "Action, Drama, Sci-Fi",
+      "Director": "Alfonso Cuarón",
+      "Writer": "Alfonso Cuarón, Timothy J. Sexton, David Arata",
+      "Actors": "Julianne Moore, Clive Owen, Chiwetel Ejiofor",
+      "Plot": "In 2027, in a chaotic world in which women have somehow become infertile, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea.",
+      "Language": "English, German, Italian, Romanian, Spanish, Arabic, Georgian, Russian, Serbian",
+      "Country": "United States, United Kingdom, Japan",
+      "Awards": "Nominated for 3 Oscars. 49 wins & 89 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjUzY2ZhZDAtZDRlNS00MzEzLTliZjItMzMyYzM2OTdkZGJjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "84/100"
+        }
+      ],
+      "Metascore": "84",
+      "imdbRating": "7.9",
+      "imdbVotes": "508,542",
+      "imdbID": "tt0206634",
+      "Type": "movie",
+      "DVD": "23 Sep 2008",
+      "BoxOffice": "$35,552,383",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
     }
   ]
 }
